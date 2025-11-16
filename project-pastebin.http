@@ -1,0 +1,6 @@
+@project_pastebin_HostAddress = http://localhost:5210
+
+GET {{project_pastebin_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
